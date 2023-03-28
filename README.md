@@ -6,7 +6,8 @@
 <p> Atualmente sou aluno de Desenvolvimento Web na Trybe.<p/>
 <div/>
   
-  ## Contato:
+## Contato:
+  
   <div> 
   <a href='https://www.linkedin.com/in/joaopedropaz/' >
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
@@ -16,7 +17,7 @@
   <a/>  
   <div/>
   
-  ## Tecnologias e Ferramentas:
+## Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -35,4 +36,18 @@
   <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
+</div>
+    
+## Meu GitHub
+    
+<div>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedrospaz&show_icons=true&theme=blue-green" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrospaz&layout=compact&theme=blue-green" />
+  </a>
+
+
 </div>
