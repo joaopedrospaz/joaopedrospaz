@@ -2,7 +2,7 @@
 
 <div align="justify">
   
-<p>Sou joão Pedro, tenho 23 anos e moro em Salvador-BA. <p/>
+<p>Sou João Pedro, tenho 23 anos e moro em Salvador-BA. <p/>
 <p> Atualmente sou aluno de Desenvolvimento Web na Trybe.<p/>
 <div/>
   
