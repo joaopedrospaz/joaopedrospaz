@@ -2,8 +2,7 @@
 
 <div align="justify">
   
-<p>Sou João Pedro. <p/>
-<p>sou Desenvolvimento Web Full Stack.<p/>
+<p>Sou João Pedro, desenvolvedor Web Full Stack.<p/>
 <div/>
   
 ## Contato:
