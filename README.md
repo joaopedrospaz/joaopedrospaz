@@ -2,8 +2,8 @@
 
 <div align="justify">
   
-<p>Sou João Pedro, tenho 23 anos e moro em Salvador-BA. <p/>
-<p> Atualmente sou aluno de Desenvolvimento Web na Trybe.<p/>
+<p>Sou João Pedro. <p/>
+<p>sou Desenvolvimento Web Full Stack.<p/>
 <div/>
   
 ## Contato:
